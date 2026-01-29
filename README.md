@@ -3,6 +3,8 @@ This project is based on the <mark>Udemy course by John Pauler</mark> - <i>[Adva
 The project assumes the role of a `eCommerce database analyst` for a <mark>newly launched eCommerce startup</mark> named `Maven Fuzzy Factory`. The project's primary focus is not only to develop advanced SQL queries, but to thoroughly emphasise the `business logic` behind it. 
 
 ## About the Database
+![Schema Diagram]()
+
 The project is based on a highly comprehensive eCommerce database built from scratch by [John Pauler](https://www.linkedin.com/in/johnpauler/), member of the [Maven Analytics](https://mavenanalytics.io/) team. Instead of working on random samples of data, the database is designed to <mark>closely mimic real-word databases specific to eCommerce startups</mark> and internet retailers that heavily rely on online stores to generate sales. The database is created using [create_mavenfuzzyfactory_db.sql](https://github.com/bhavay1998/sql_ecomm_analytics/blob/main/create_mavenfuzzyfactory_db.sql) file.
 
 ## Objective
