@@ -1,4 +1,4 @@
-# Web_Analytics
+# Ecommerce and Web Analytics
 Project Repository for the Maven Fuzzy Factory Marketing and Website Management Teams.
 
 ## Objective
