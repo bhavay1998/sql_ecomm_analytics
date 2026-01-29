@@ -1,6 +1,6 @@
 # Ecommerce and Web Analytics
 This project is based on the Udemy course by John Pauler - <i>[Advanced SQL: MySQL for Ecommerce & Web Analytics](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)</i>. <br>
-The project assumes the role of a <mark>eCommerce database analyst</mark> for a <i>newly launched eCommerce startup</i> named `Maven Fuzzy Factory`. The project's primary focus is not only to develop advanced SQL queries, but to thoroughly emphasise the `business logic` behind it. 
+The project assumes the role of a <mark style="background-color: lightblue"> eCommerce database analyst </mark> for a <i>newly launched eCommerce startup</i> named `Maven Fuzzy Factory`. The project's primary focus is not only to develop advanced SQL queries, but to thoroughly emphasise the `business logic` behind it. 
 
 ## Objective
 The aim of the project is to help the management (i.e. CEO, marketing director and website manager) grow the business and understand how to improve performance. Specifially, 
