@@ -8,7 +8,7 @@ The aim of the project is to help the management (i.e. CEO, marketing director a
 steer the business in the right direction, by assuming the role of a Web Analyst. Maven Fuzzy Factory is an online retailer that has just begun to generate sales. All analyses are performed by querying the ecommerce database using MySQL Client with Jupyter Notebooks. The entire code can be reproduced on MySQL Workbench.
 
 ## About the Database
-The project is based on an eCommerce database built from scratch by John Pauler, member of the Maven Analytics team. Instead of working on random samples of data, the database is designed to closely mimic real-word eCommerce databases.
+The project is based on an eCommerce database built from scratch by [John Pauler](https://www.linkedin.com/in/johnpauler/), member of the [Maven Analytics](https://mavenanalytics.io/)) team. Instead of working on random samples of data, the database is designed to closely mimic real-word eCommerce databases.
 
 ## Database Schema
 The schema is stored in the project repository. It can also be visited with the link: <u> https://github.com/bhavay1998/Web_Analytics/blob/main/Schema.pdf </u>
