@@ -14,6 +14,7 @@ The database contains six related tables:
 - `products` - can be linked with <i>order_items</i> to get product level information for a placed order
 - `order_item_refunds` - can be linked to the <i>orders</i> table to get information about refunds made on orders with customer complaints
 - `website_sessions` - helps identify the source of website traffic (via <mark>utm and related parameters</mark>) through which orders are being generated
+- `website_pageviews` - contains information on pages of a website visited by a user; for a specific website session 
 
 ## Objective
 The aim of the project is to help the management (i.e. CEO, Marketing Director and Website Manager) grow the business and understand how to improve performance. Analysis is performed to optimize the business’ marketing channels, website, and product portfolio. All analyses are performed using the `MavenFuzzyFactory` database on MySQL Workbench.
