@@ -4,12 +4,12 @@ The project assumes the role of a `eCommerce database analyst` for a <mark>newly
 
 ## About the Database
 The project is based on a highly comprehensive eCommerce database built from scratch by [John Pauler](https://www.linkedin.com/in/johnpauler/), member of the [Maven Analytics](https://mavenanalytics.io/) team. Instead of working on random samples of data, the database is designed to <mark>closely mimic real-word databases specific to eCommerce startups</mark> and internet retailers that heavily rely on online stores to generate sales. The database is created using [create_mavenfuzzyfactory_db.sql](https://github.com/bhavay1998/sql_ecomm_analytics/blob/main/create_mavenfuzzyfactory_db.sql) file. The database contains six related tables:
-- orders - contains purchase orders placed by customers; order might contain multiple items
-- order_items - can be linked to the <i>orders</i> table to get information about the number of items contained within a particular order
-- products - can be linked with <i>order_items</i> to get product level information for a placed order
-- order_item_refunds - can be linked to the <i>orders</i> table to get information about refunds made on orders with customer complaints
-- website_sessions - helps identify the source of website traffic (via `utm` and related parameters) through which orders are being generated
-<br>
+- <mark>orders</mark> - contains purchase orders placed by customers; order might contain multiple items
+- <mark>order_items</mark> - can be linked to the <i>orders</i> table to get information about the number of items contained within a particular order
+- <mark>products</mark> - can be linked with <i>order_items</i> to get product level information for a placed order
+- <mark>order_item_refunds</mark> - can be linked to the <i>orders</i> table to get information about refunds made on orders with customer complaints
+- <mark>website_sessions</mark> - helps identify the source of website traffic (via `utm` and related parameters) through which orders are being generated
+
 ![Schema Diagram](scripts/Schema_Maven_Fuzzy_Factory.png)
 
 ## Objective
