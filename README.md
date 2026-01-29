@@ -16,8 +16,8 @@ The database contains six related tables:
 - `website_sessions` - helps identify the source of website traffic (via <mark>utm and related parameters</mark>) through which orders are being generated
 
 ## Objective
-The aim of the project is to help the management (i.e. CEO, Marketing Director and Website Manager) grow the business and understand how to improve performance. Analysis is performed to optimize the business’ marketing channels, website, and product portfolio. All analyses are performed by querying the eCommerce database using MySQL Workbench.
-The project is intended to perform BI analysis by querying the database, instead of focusing on data building and maintenance. 
+The aim of the project is to help the management (i.e. CEO, Marketing Director and Website Manager) grow the business and understand how to improve performance. Analysis is performed to optimize the business’ marketing channels, website, and product portfolio. All analyses are performed using the `MavenFuzzyFactory` database on MySQL Workbench.
+The project is intended to perform BI analysis by querying the database, instead of working on database warehousing, building and maintenance. 
 
 
 ## Project Highlights
@@ -29,9 +29,3 @@ The project concludes with assisting the Website Manager in website content anal
 - Recommended a custom lander page since the bounce rate for the default lander page was unreasonably high (~60%)
 - In an A/B test, custom lander performed better than the default lander (bounce rate ~53%)
 - In a trend analysis, the business witnessed a reduction in the overall bounce rate for their website
-
-## Project Code
-The two code files *Traffic Source Analysis* and *Website Measurement & Testing* are present both in **PDF** and **Jupyter Notebook** formats in the project repository. The code was run on Jupyer Notebooks with MySQL client to make code output visible directly under the code cell. This makes the code easy to interpret.
-Links:
-- https://github.com/bhavay1998/Web_Analytics/blob/main/Traffic%20Source%20Analysis.ipynb
-- https://github.com/bhavay1998/Web_Analytics/blob/main/Website%20Content%20Analysis%20and%20Testing.ipynb
