@@ -2,13 +2,12 @@
 This project is based on the <mark>Udemy</mark> course by John Pauler - <i>[Advanced SQL: MySQL for Ecommerce & Web Analytics](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/)</i>. <br><br>
 The project assumes the role of a `eCommerce database analyst` for a <mark>newly launched eCommerce startup</mark> named `Maven Fuzzy Factory`. The project's primary focus is not only to develop advanced SQL queries, but to thoroughly emphasise the `business logic` behind it. 
 
-## Objective
-The aim of the project is to help the management (i.e. CEO, marketing director and website manager) grow the business and understand how to improve performance. Specifially, 
-
-steer the business in the right direction, by assuming the role of a Web Analyst. Maven Fuzzy Factory is an online retailer that has just begun to generate sales. All analyses are performed by querying the ecommerce database using MySQL Client with Jupyter Notebooks. The entire code can be reproduced on MySQL Workbench.
-
 ## About the Database
-The project is based on a comprehensive eCommerce database built from scratch by [John Pauler](https://www.linkedin.com/in/johnpauler/), member of the [Maven Analytics](https://mavenanalytics.io/) team. Instead of working on random samples of data, the database is designed to closely mimic real-word databases specific to eCommerce startups and internet retailers that heavily rely on online stores to generate sales.
+The project is based on a highly comprehensive eCommerce database built from scratch by [John Pauler](https://www.linkedin.com/in/johnpauler/), member of the [Maven Analytics](https://mavenanalytics.io/) team. Instead of working on random samples of data, the database is designed to closely mimic real-word databases specific to <mark>eCommerce startups and internet retailers that heavily rely on online stores to generate sales</mark>. 
+
+## Objective
+The aim of the project is to help the management (i.e. CEO, Marketing Director and Website Manager) grow the business and understand how to improve performance. Analysis is performed to optimize the business’ marketing channels, website, and product portfolio. All analyses are performed by querying the eCommerce database using MySQL Workbench.
+The project is intended to perform BI analysis by querying the database, instead of focusing on data building and maintenance.
 
 ## Database Schema
 The schema is stored in the project repository. It can also be visited with the link: <u> https://github.com/bhavay1998/Web_Analytics/blob/main/Schema.pdf </u>
