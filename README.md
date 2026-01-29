@@ -1,5 +1,5 @@
 # Ecommerce and Web Analytics
-Project Repository for the Maven Fuzzy Factory Marketing and Website Management Teams.
+This project is based on the Udemy course by John Pauler: <i>(MySQL for Ecommerce & Web Analytics)[https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/]</i>. 
 
 ## Objective
 The aim of the project is to help the management steer the business in the right direction, by assuming the role of a Web Analyst. Maven Fuzzy Factory is an online retailer that has just begun to generate sales. All analyses are performed by querying the ecommerce database using MySQL Client with Jupyter Notebooks. The entire code can be reproduced on MySQL Workbench.
