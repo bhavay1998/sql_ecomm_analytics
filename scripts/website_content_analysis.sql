@@ -176,7 +176,7 @@ LEFT JOIN website_pageviews wp
 	ON pgs2.landing_pg_id = wp.website_pageview_id
 GROUP BY 1
 	HAVING landing_pg_url IN ('/home', '/lander-1')
-; -- Both pages appear to have very similar bounce rates!
+;
 
 /* 
 It appears that bounce rate is actually lower for /lander-1 page compared to /home page (53.2% v. 58.3%), according to the conducted A/B test.
