@@ -7,9 +7,10 @@ The project is based on a highly comprehensive eCommerce database built from scr
 
 ### Database Schema
 <p align="center">
-  <img src="database_schema.png" alt="Schema Diagram" width="400"/>
+  <img src="database_schema.png" alt="Schema Diagram" width="900"/>
 </p>
 <br><br>
+
 The database contains six related tables:
 - `orders` - contains purchase orders placed by customers; order might contain multiple items
 - `order_items` - can be linked to the <i>orders</i> table to get information about the number of items contained within a particular order
