@@ -22,7 +22,7 @@ The project is intended to perform BI analysis by querying the database, instead
 
 
 ## Project Highlights
-The highlights mentioned for each section of the project can be verified by looking at the [output](scripts_output).
+The highlights mentioned for each section of the project can be verified by looking at the [output tables](scripts_output).
 ### Traffic Source Analysis
 
 Assisted the Marketing Director in optimizing paid marketing channels using SQL-based traffic source analysis:
@@ -33,7 +33,12 @@ Assisted the Marketing Director in optimizing paid marketing channels using SQL-
 - Post-optimization, desktop sessions and overall paid traffic volume increased over time, shown via weekly trend analysis.
 
 ### Website Content and Conversion Funnel Analysis
-The project concludes with assisting the Website Manager in website content analysis and A/B testing for landing page analysis. Result:
-- Recommended a custom lander page since the bounce rate for the default lander page was unreasonably high (~60%)
-- In an A/B test, custom lander performed better than the default lander (bounce rate ~53%)
-- In a trend analysis, the business witnessed a reduction in the overall bounce rate for their website
+Analyzed on-site user behavior and conversion performance to identify content bottlenecks and optimize the purchase journey:
+
+- Ranked most-viewed website pages by session volume to understand how users interact with site content, identifying `/home` as the dominant entry page.
+- Calculated homepage bounce rate (~60%) by isolating landing-page sessions, highlighting poor engagement for paid search traffic.
+- Designed an A/B test for a new paid-search landing page `/lander-1`, showing a lower bounce rate for `/lander-1` vs. `/home`.
+- Conducted weekly trend analysis to track traffic re-routing from `/home` to `/lander-1`, demonstrating a drop in overall bounce rate from ~60% to ~50%.
+- Built a full conversion funnel from landing page to order confirmation, quantifying user drop-off at each step of the purchase journey.
+- Identified key funnel leakage points (`/lander-1`, `/products`, and `/billing` pages) using step-level click-through rates.
+- Performed an A/B test on billing page redesign (`/billing` vs `/billing-2`), showing a significant lift in billing-to-order conversion (≈45% → 62%).
