@@ -22,10 +22,15 @@ The project is intended to perform BI analysis by querying the database, instead
 
 
 ## Project Highlights
-The project begins with assisting the Marketing Director in optimising marketing channels through Traffic Source Analysis & Bid Optimization. Result:
-- Marketing spent is justified for 'gsearch nonbrand' campaign, only for 'desktop' device
-- Conversion Rate and Session Volume are the metrics used for this justification
+### Traffic Source Analysis
+The project begins with assisting the Marketing Director in optimising marketing channels through Traffic Source Analysis & Bid Optimization. Results:
+- Used information from utm parameters to identify channels that are major sources of website traffic (gsearch nonbrand channel)
+- Used converstion rate analysis for bid-optimisation, to evaluate whether the bid on paid traffic channel is justified or not (against a 4% CVR target)
+- Used weekly trend analysis to report chnages in website traffic volume, after making bid changes
+- Identified significant difference in conversion rates by device type, so that bids on 'desktop' device could be increased to improve overall CVR
+- Total paid traffic on the website increased with time, after bid (justified against 4% CVR target) increased for 'desktop' device type
 
+### Website Content and Conversion Funnel Analysis
 The project concludes with assisting the Website Manager in website content analysis and A/B testing for landing page analysis. Result:
 - Recommended a custom lander page since the bounce rate for the default lander page was unreasonably high (~60%)
 - In an A/B test, custom lander performed better than the default lander (bounce rate ~53%)
