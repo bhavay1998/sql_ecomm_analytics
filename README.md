@@ -17,9 +17,8 @@ The database contains six related tables:
 - `website_pageviews` - contains information on pages of a website visited by a user; for a specific website session 
 
 ## Objective
-The aim of the project is to help the management (i.e. CEO, Marketing Director and Website Manager) grow the business and understand how to improve performance. Analysis is performed to optimize the business’ marketing channels, website, and product portfolio. All analyses are performed using the `MavenFuzzyFactory` database on MySQL Workbench.
+The aim of the project is to help the management (i.e. CEO, Marketing Director and Website Manager) grow the eCommerce business and understand how to improve performance. Analysis is performed to optimize the business’ marketing channels, website, and product portfolio. All analyses are performed using the `MavenFuzzyFactory` database on MySQL Workbench.
 The project is intended to perform BI analysis by querying the database, instead of working on database warehousing, building and maintenance. 
-
 
 ## Project Highlights
 The highlights mentioned for each section of the project can be verified by looking at the [output tables](scripts_output).
