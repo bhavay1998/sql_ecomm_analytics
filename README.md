@@ -22,11 +22,12 @@ The project is intended to perform BI analysis by querying the database, instead
 
 
 ## Project Highlights
+The highlights mentioned for each section of the project can be verified by looking at the [output](scripts_output).
 ### Traffic Source Analysis
 
 Assisted the Marketing Director in optimizing paid marketing channels using SQL-based traffic source analysis:
 - Analyzed UTM parameters to identify primary sources of website traffic, finding gsearch non-brand as the dominant paid channel.
-- Evaluated conversion rates against a 4% CVR benchmark to assess whether paid traffic bids were justified.
+- Evaluated conversion rates against a 4% CVR benchmark to reveal that the paid traffic bids were not justified.
 - Performed weekly trend analysis to measure changes in paid traffic volume following bid adjustments.
 - Identified a significant CVR gap between desktop and mobile users (3.73% v. 0.97% resp.), leading to increased bids on desktop traffic.
 - Post-optimization, desktop sessions and overall paid traffic volume increased over time, shown via weekly trend analysis.
