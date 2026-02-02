@@ -7,7 +7,7 @@ The project is based on a highly comprehensive eCommerce database built from scr
 
 ### Database Schema
 <p align="center">
-  <img src="database_schema.png" alt="Schema Diagram" width="900"/>
+  <img src="database_schema.png" alt="Schema Diagram" width="600"/>
 </p>
 <br><br>
 
