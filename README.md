@@ -23,12 +23,13 @@ The project is intended to perform BI analysis by querying the database, instead
 
 ## Project Highlights
 ### Traffic Source Analysis
-The project begins with assisting the Marketing Director in optimising marketing channels through Traffic Source Analysis & Bid Optimization. Results:
-- Used information from utm parameters to identify channels that are major sources of website traffic (gsearch nonbrand channel)
-- Used converstion rate analysis for bid-optimisation, to evaluate whether the bid on paid traffic channel is justified or not (against a 4% CVR target)
-- Used weekly trend analysis to report chnages in website traffic volume, after making bid changes
-- Identified significant difference in conversion rates by device type, so that bids on 'desktop' device could be increased to improve overall CVR
-- Total paid traffic on the website increased with time, after bid (justified against 4% CVR target) increased for 'desktop' device type
+
+Assisted the Marketing Director in optimizing paid marketing channels using SQL-based traffic source analysis:
+- Analyzed UTM parameters to identify primary sources of website traffic, finding gsearch non-brand as the dominant paid channel.
+- Evaluated conversion rates against a 4% CVR benchmark to assess whether paid traffic bids were justified.
+- Performed weekly trend analysis to measure changes in paid traffic volume following bid adjustments.
+- Identified a significant CVR gap between desktop and mobile users (3.73% v. 0.97% resp.), leading to increased bids on desktop traffic.
+- Post-optimization, desktop sessions and overall paid traffic volume increased over time, shown via weekly trend analysis.
 
 ### Website Content and Conversion Funnel Analysis
 The project concludes with assisting the Website Manager in website content analysis and A/B testing for landing page analysis. Result:
