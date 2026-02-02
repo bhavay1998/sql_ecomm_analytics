@@ -6,7 +6,9 @@ The project assumes the role of a <mark>eCommerce database analyst</mark> for a 
 The project is based on a highly comprehensive eCommerce database built from scratch by [John Pauler](https://www.linkedin.com/in/johnpauler/), member of the [Maven Analytics](https://mavenanalytics.io/) team. Instead of working on random samples of data, the database is designed to <mark>closely mimic real-word databases specific to eCommerce startups</mark> and internet retailers that heavily rely on online stores to generate sales. The database is created using the [create_mavenfuzzyfactory_db.sql](https://github.com/bhavay1998/sql_ecomm_analytics/blob/main/scripts/init_database/create_mavenfuzzyfactory_db.sql) file. 
 
 ### Database Schema
-![Schema Diagram](database_schema.png)
+<p align="center">
+  <img src="database_schema.png" alt="Schema Diagram" width="400"/>
+</p>
 <br><br>
 The database contains six related tables:
 - `orders` - contains purchase orders placed by customers; order might contain multiple items
