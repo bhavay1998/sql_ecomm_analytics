@@ -51,5 +51,5 @@ Analyzed how the business is doing in the first 8 months of its operations, to h
 - Rising `brand` based sessions and orders from `gsearch` traffic indicate increasing user awareness and intent.
 - `desktop` traffic generates most sessions and orders, but `mobile` sessions and orders also increased over time despite bid increases applied only to `desktop`.
 - Growth in `direct-source` sessions indicates increasing organic brand recognition where the business doesn't have to pay to attract users.
-- session to order `conversion rate` in Nov 2012 is 38% higher than in Mar 2012, alongside 578% session growth and 835% order growth.
+- Session to order `conversion rate` in Nov 2012 is 38% higher than in Mar 2012, alongside 578% session growth and 835% order growth.
 - `/lander-1` outperforms `/home` with a 5% higher entry-page `clickthrough rate`, within a seven stage conversion funnel.
