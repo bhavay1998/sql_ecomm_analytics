@@ -47,7 +47,7 @@ Analyzed on-site user behavior and conversion performance to identify content bo
 
 ### Interim Growth Report
 Analyzed how the business is doing in the first 8 months of its operations, to help the CEO prepare for the board meeting:
-- Gsearch sessions and orders increased steadily month over month, confirming it as the primary growth channel.
+- `gsearch` sessions and orders increased steadily month over month, confirming it as the primary growth channel.
 - Nonbrand campaigns account for the majority of Gsearch session and order volume, while brand traffic also shows consistent growth.
 - Rising 'brand' driven sessions and orders indicate increasing user awareness and intent.
 - Desktop traffic generates most sessions and orders, but mobile sessions and orders also increased over time despite bid increases applied only to desktop.
