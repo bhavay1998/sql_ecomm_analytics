@@ -51,7 +51,7 @@ Analyzed how the business is doing in the first 8 months of its operations, to h
 - `nonbrand` campaigns account for the majority of `gsearch` session and order volume, while `brand` traffic also shows consistent growth.
 - Rising `brand` driven sessions and orders indicate increasing user awareness and intent.
 - `desktop` traffic generates most sessions and orders, but `mobile` sessions and orders also increased over time despite bid increases applied only to `desktop`.
-- Gsearch produces the highest session volume, followed by bsearch and then direct traffic; all channels show sustained growth.
-- Growth in direct-source sessions indicates increasing organic brand recognition where business isn't relying on paid channels.
-- Session to order conversion rate in Nov 2012 is 38% higher than in Mar 2012, alongside 578% session growth and 835% order growth.
-- `/lander-1` outperforms `/home` with a 5% higher entry-page clickthrough rate across the full conversion funnel.
+- `gsearch` produces the highest session volume, followed by `bsearch` and then `direct` traffic; all channels show sustained growth.
+- Growth in `direct-source` sessions indicates increasing organic brand recognition where business isn't relying on paid channels.
+- session to order `conversion rate` in Nov 2012 is 38% higher than in Mar 2012, alongside 578% session growth and 835% order growth.
+- `/lander-1` outperforms `/home` with a 5% higher entry-page `clickthrough rate` across the full conversion funnel.
