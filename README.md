@@ -44,3 +44,14 @@ Analyzed on-site user behavior and conversion performance to identify content bo
 - Built a full conversion funnel from landing page to order confirmation, quantifying user drop-off at each step of the purchase journey.
 - Identified key funnel leakage points (`/lander-1`, `/products`, and `/billing` pages) using step-level click-through rates.
 - Performed an A/B test on billing page redesign (`/billing` vs `/billing-2`), showing a significant lift in billing-to-order conversion (≈45% → 62%).
+
+### Interim Growth Report
+Analyzed how the business is doing in the first 8 months of its operations, to help the CEO prepare for the board meeting:
+- Gsearch sessions and orders increased steadily month over month, confirming it as the primary growth channel.
+- Nonbrand campaigns account for the majority of Gsearch session and order volume, while brand traffic also shows consistent growth.
+- Rising 'brand' driven sessions and orders indicate increasing user awareness and intent.
+- Desktop traffic generates most sessions and orders, but mobile sessions and orders also increased over time despite bid increases applied only to desktop.
+- Gsearch produces the highest session volume, followed by bsearch and then direct traffic; all channels show sustained growth.
+- Growth in direct-source sessions indicates increasing organic brand recognition where business isn't relying on paid channels.
+- Session to order conversion rate in Nov 2012 is 38% higher than in Mar 2012, alongside 578% session growth and 835% order growth.
+- `/lander-1` outperforms `/home` with a 5% higher entry-page clickthrough rate across the full conversion funnel.
